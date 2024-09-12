@@ -1,3 +1,5 @@
+package ex12;
+
 public class dog {
     private String name;
 
