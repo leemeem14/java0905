@@ -1,4 +1,4 @@
-package ex8_1;
+package ex8.ex8_1;
 
 public class Hero {
     String name;
@@ -35,6 +35,6 @@ public class Hero {
         this.speed = speed;
     }
     public String toStr(){
-        return String.format("ex8_1.Hero{Name: %s Power: %d Speed: %d}", name, power, speed);
+        return String.format("ex8.ex8_1.Hero{Name: %s Power: %d Speed: %d}", name, power, speed);
     }
 }

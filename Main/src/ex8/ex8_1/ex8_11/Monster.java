@@ -1,4 +1,4 @@
-package ex8_11;
+package ex8.ex8_1.ex8_11;
 
 
  public class Monster {

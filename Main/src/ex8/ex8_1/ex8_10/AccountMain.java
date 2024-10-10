@@ -1,4 +1,4 @@
-package ex8_10;
+package ex8.ex8_1.ex8_10;
 
 public class AccountMain {
     public static void main(String[] args) {

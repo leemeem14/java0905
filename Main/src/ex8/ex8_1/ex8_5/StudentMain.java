@@ -1,4 +1,4 @@
-package ex8_5;
+package ex8.ex8_1.ex8_5;
 
 public class StudentMain {
     public static void main(String[] args) {

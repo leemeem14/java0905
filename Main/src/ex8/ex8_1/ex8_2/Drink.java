@@ -1,4 +1,4 @@
-package ex8_2;
+package ex8.ex8_1.ex8_2;
 
 public class Drink {
     String name;

@@ -1,4 +1,4 @@
-package ex8_6;
+package ex8.ex8_1.ex8_6;
 import java.util.Scanner;
 
 public class MainMyMath {

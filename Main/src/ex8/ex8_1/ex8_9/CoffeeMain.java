@@ -1,4 +1,4 @@
-package ex8_9;
+package ex8.ex8_1.ex8_9;
 
 public class CoffeeMain {
     public static void main(String[] args) {

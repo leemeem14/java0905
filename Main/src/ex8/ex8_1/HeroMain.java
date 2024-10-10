@@ -1,4 +1,4 @@
-package ex8_1;
+package ex8.ex8_1;
 
 public class HeroMain {
     public static void main(String[] args) {
