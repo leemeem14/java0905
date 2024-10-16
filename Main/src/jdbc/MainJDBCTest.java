@@ -7,3 +7,4 @@ public class MainJDBCTest {
         Connection con = jdbconnector.getConnection();
     }
 }
+//
