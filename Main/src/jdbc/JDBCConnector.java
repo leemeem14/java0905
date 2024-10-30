@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-public class jdbconnector {
+public class JDBCConnector {
     private static Connection con;
     private static final String URL="jdbc:oracle:thin:@localhost:1521/xe";
     private static final String USER_NAME="c##leemeem14";
@@ -28,4 +28,3 @@ public class jdbconnector {
         return con;
     }
 }
-//
