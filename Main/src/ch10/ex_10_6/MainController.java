@@ -8,3 +8,4 @@ public class MainController {
         truck.load();
     }
 }
+    
